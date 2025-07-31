@@ -1,0 +1,94 @@
+2025-07-02 10:46:20,204 [redmine_handler] INFO: ===== Redmine handling cycle began =====
+2025-07-02 10:46:20,363 [redmine_handler] INFO: Connected to Redmine.
+2025-07-02 10:46:20,363 [redmine_handler] INFO: One email loaded.
+2025-07-02 10:52:15,714 [redmine_handler] INFO: ===== Redmine handling cycle began =====
+2025-07-02 10:52:15,804 [redmine_handler] INFO: Connected to Redmine.
+2025-07-02 10:52:15,804 [redmine_handler] INFO: One email loaded.
+2025-07-02 10:53:04,346 [redmine_handler] INFO: ===== Redmine handling cycle began =====
+2025-07-02 10:53:04,437 [redmine_handler] INFO: Connected to Redmine.
+2025-07-02 10:53:04,437 [redmine_handler] INFO: One email loaded.
+2025-07-02 10:54:19,505 [redmine_handler] INFO: ===== Redmine handling cycle began =====
+2025-07-02 10:54:19,594 [redmine_handler] INFO: Connected to Redmine.
+2025-07-02 10:54:19,594 [redmine_handler] INFO: One email loaded.
+2025-07-02 10:54:59,745 [redmine_handler] INFO: ===== Redmine handling cycle began =====
+2025-07-02 10:54:59,840 [redmine_handler] INFO: Connected to Redmine.
+2025-07-02 10:54:59,840 [redmine_handler] INFO: One email loaded.
+2025-07-02 10:55:00,124 [redmine_handler] INFO: -----Issue updated success with ID: 2632.
+2025-07-02 10:55:00,124 [redmine_handler] INFO: ===== Redmine handling cycle finished =====
+2025-07-02 10:56:53,755 [redmine_handler] INFO: ===== Redmine handling cycle began =====
+2025-07-02 10:56:53,844 [redmine_handler] INFO: Connected to Redmine.
+2025-07-02 10:56:53,844 [redmine_handler] INFO: One email loaded.
+2025-07-02 10:56:54,347 [redmine_handler] INFO: -----Issue updated success with ID: 2632.
+2025-07-02 10:56:54,348 [redmine_handler] INFO: ===== Redmine handling cycle finished =====
+2025-07-02 10:58:26,256 [redmine_handler] INFO: ===== Redmine handling cycle began =====
+2025-07-02 10:58:26,344 [redmine_handler] INFO: Connected to Redmine.
+2025-07-02 10:58:26,344 [redmine_handler] INFO: One email loaded.
+2025-07-02 10:58:26,679 [redmine_handler] INFO: -----Issue updated success with ID: 2632.
+2025-07-02 10:58:26,679 [redmine_handler] INFO: ===== Redmine handling cycle finished =====
+2025-07-02 11:01:25,535 [redmine_handler] INFO: ===== Redmine handling cycle began =====
+2025-07-02 11:01:25,643 [redmine_handler] INFO: Connected to Redmine.
+2025-07-02 11:01:25,644 [redmine_handler] INFO: One email loaded.
+2025-07-02 11:01:26,253 [redmine_handler] INFO: -----Issue updated success with ID: 2632.
+2025-07-02 11:01:26,254 [redmine_handler] INFO: ===== Redmine handling cycle finished =====
+2025-07-02 11:02:39,370 [redmine_handler] INFO: ===== Redmine handling cycle began =====
+2025-07-02 11:02:39,443 [redmine_handler] INFO: Connected to Redmine.
+2025-07-02 11:02:39,443 [redmine_handler] INFO: One email loaded.
+2025-07-02 11:02:39,693 [redmine_handler] INFO: -----Issue updated success with ID: 2632.
+2025-07-02 11:02:39,693 [redmine_handler] INFO: ===== Redmine handling cycle finished =====
+2025-07-02 11:04:12,702 [redmine_handler] INFO: ===== Redmine handling cycle began =====
+2025-07-02 11:04:12,815 [redmine_handler] INFO: Connected to Redmine.
+2025-07-02 11:04:12,815 [redmine_handler] INFO: One email loaded.
+2025-07-02 11:04:13,140 [redmine_handler] INFO: -----Issue updated success with ID: 2632.
+2025-07-02 11:04:13,140 [redmine_handler] INFO: ===== Redmine handling cycle finished =====
+2025-07-02 11:05:19,458 [redmine_handler] INFO: ===== Redmine handling cycle began =====
+2025-07-02 11:05:19,584 [redmine_handler] INFO: Connected to Redmine.
+2025-07-02 11:05:19,584 [redmine_handler] INFO: One email loaded.
+2025-07-02 11:05:19,984 [redmine_handler] INFO: -----Issue updated success with ID: 2632.
+2025-07-02 11:05:19,988 [redmine_handler] INFO: ===== Redmine handling cycle finished =====
+2025-07-02 11:06:09,399 [redmine_handler] INFO: ===== Redmine handling cycle began =====
+2025-07-02 11:06:09,491 [redmine_handler] INFO: Connected to Redmine.
+2025-07-02 11:06:09,491 [redmine_handler] INFO: One email loaded.
+2025-07-02 11:06:09,907 [redmine_handler] INFO: -----Issue updated success with ID: 2632.
+2025-07-02 11:06:09,907 [redmine_handler] INFO: ===== Redmine handling cycle finished =====
+2025-07-02 11:07:11,714 [redmine_handler] INFO: ===== Redmine handling cycle began =====
+2025-07-02 11:07:11,800 [redmine_handler] INFO: Connected to Redmine.
+2025-07-02 11:07:11,800 [redmine_handler] INFO: One email loaded.
+2025-07-02 11:07:12,163 [redmine_handler] INFO: -----Issue created success with ID: 2633.
+2025-07-02 11:07:12,400 [redmine_handler] INFO: -----Email has been sent to 'ryder.liang@fii-na.com' with subject 'This message come from Ryder'
+2025-07-02 11:07:12,401 [redmine_handler] INFO: One email loaded.
+2025-07-02 11:07:12,573 [redmine_handler] INFO: -----Issue 2626 matched.
+2025-07-02 11:07:12,786 [redmine_handler] INFO: -----Issue updated success with ID: 2626.
+2025-07-02 11:07:12,786 [redmine_handler] INFO: One email loaded.
+2025-07-02 11:07:13,180 [redmine_handler] INFO: -----Issue created success with ID: 2634.
+2025-07-02 11:07:13,455 [redmine_handler] INFO: -----Email has been sent to 'userwithrequests@outlook.com' with subject 'Test 07/02 1'
+2025-07-02 11:07:13,456 [redmine_handler] INFO: One email loaded.
+2025-07-02 11:07:13,726 [redmine_handler] INFO: -----Issue 2632 matched.
+2025-07-02 11:07:13,922 [redmine_handler] INFO: -----Issue updated success with ID: 2632.
+2025-07-02 11:07:13,922 [redmine_handler] INFO: One email loaded.
+2025-07-02 11:10:58,978 [redmine_handler] INFO: ===== Redmine handling cycle began =====
+2025-07-02 11:10:59,064 [redmine_handler] INFO: Connected to Redmine.
+2025-07-02 11:10:59,064 [redmine_handler] INFO: One email loaded.
+2025-07-02 11:10:59,395 [redmine_handler] INFO: -----Issue created success with ID: 2635.
+2025-07-02 11:10:59,580 [redmine_handler] INFO: -----Email has been sent to 'ryder.liang@fii-na.com' with subject 'This message come from Ryder'
+2025-07-02 11:10:59,580 [redmine_handler] INFO: One email loaded.
+2025-07-02 11:10:59,719 [redmine_handler] INFO: -----Issue 2626 matched.
+2025-07-02 11:10:59,878 [redmine_handler] INFO: -----Issue updated success with ID: 2626.
+2025-07-02 11:10:59,878 [redmine_handler] INFO: One email loaded.
+2025-07-02 11:11:00,277 [redmine_handler] INFO: -----Issue created success with ID: 2636.
+2025-07-02 11:11:00,472 [redmine_handler] INFO: -----Email has been sent to 'userwithrequests@outlook.com' with subject 'Test 07/02 1'
+2025-07-02 11:11:00,472 [redmine_handler] INFO: One email loaded.
+2025-07-02 11:11:00,799 [redmine_handler] INFO: -----Issue created success with ID: 2637.
+2025-07-02 11:11:00,981 [redmine_handler] INFO: -----Email has been sent to 'userwithrequests@outlook.com' with subject 'Test 07/02 2'
+2025-07-02 11:11:00,981 [redmine_handler] INFO: One email loaded.
+2025-07-02 11:11:01,157 [redmine_handler] INFO: -----Issue created success with ID: 2638.
+2025-07-02 11:11:01,435 [redmine_handler] INFO: -----Email has been sent to 'Yitong.Wu@FII-NA.com' with subject 'Demo on 06/19'
+2025-07-02 11:11:01,436 [redmine_handler] INFO: One email loaded.
+2025-07-02 11:11:01,659 [redmine_handler] INFO: -----Issue created success with ID: 2639.
+2025-07-02 11:11:01,906 [redmine_handler] INFO: -----Email has been sent to 'Yitong.Wu@FII-NA.com' with subject 'Demo on 06/19'
+2025-07-02 11:11:01,906 [redmine_handler] INFO: One email loaded.
+2025-07-02 11:11:02,157 [redmine_handler] INFO: -----Issue created success with ID: 2640.
+2025-07-02 11:11:02,346 [redmine_handler] INFO: -----Email has been sent to 'Yitong.Wu@FII-NA.com' with subject 'Demo on 06/19'
+2025-07-02 11:11:02,347 [redmine_handler] INFO: One email loaded.
+2025-07-02 11:11:02,957 [redmine_handler] INFO: -----Issue created success with ID: 2641.
+2025-07-02 11:11:03,150 [redmine_handler] INFO: -----Email has been sent to 'Yitong.Wu@FII-NA.com' with subject 'Test 07/02 2'
+2025-07-02 11:11:03,151 [redmine_handler] INFO: ===== Redmine handling cycle finished =====

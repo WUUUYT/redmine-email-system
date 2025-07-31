@@ -1,0 +1,6 @@
+**
+!src/
+!.env
+!config.json
+!preview.html
+!requirements.txt

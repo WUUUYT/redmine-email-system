@@ -1,0 +1,50 @@
+{
+    "projects": {
+        "p20240805": {
+            "name": "SOA Sustaining",
+            "email": "soa@example.com",
+            "cache_file": "data/soa.bin",
+            "enabled": true,
+            "createdefault": {
+                "status_id": 1,
+                "tracker_id": 2,
+                "priority_id": 2,
+                "assigned_to_id": null,
+                "business_unit": [4] 
+            },
+            "emailignore": {
+                "startwith": ["Automatic reply"],
+                "contain": ["new"],
+                "endwith": []
+            }
+        },
+        "p20240806": {
+            "name": "DBA Sustaining",
+            "email": "dba@example.com",
+            "cache_file": "data/dba.bin",
+            "enabled": false,
+            "createdefault": {
+                "status_id": 1,
+                "tracker_id": 2,
+                "priority_id": 2,
+                "assigned_to_id": null,
+                "business_unit": [4] 
+            },
+            "emailignore": {
+                "startwith": [],
+                "contain": [],
+                "endwith": []
+            }
+        }
+    },
+    "reminderconfig": {
+        "status_change": true,
+        "priority_change": false,
+        "assignee_change": false,
+        "tracker_change": false,
+        "notes_change": false
+    },
+    "client_ID": "05dcd4eb-fcb2-4849-989a-e1853580aba6",
+    "tenant_ID": "2f78a81d-6abb-4840-a061-3fe5396c72f2",
+    "check_interval": 1
+}

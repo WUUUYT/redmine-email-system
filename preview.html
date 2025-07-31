@@ -1,0 +1,35 @@
+<html>
+<head></head>
+<body>
+    <P>{'-'*10 + 'Reply above this line to add a note' + '-'*10}<P>
+    <P>
+    <p>Hi {recipient}, </p>
+    <p>The issue (ID: {issue.id}) you submitted on {issue.created_on} 
+    with subject '{issue.subject}' has been updated. 
+    Meanwhile, you can reply to this email if you have any additional questions or details.<p></p>
+    Please click this </strong> <a href="{issue_url}">link</a> for details. Or you can check some of the related attributes of this issue as shown below. </p>
+    <p>Sincerely,<br>
+    IT Team</p>
+    <i><strong>NOTE</strong>: If you reply via email, try not to modify the subject, as it is the key to matching the correct issue. Otherwise, please include your issue id in the subject in the format (e.g., #1234), or simply use your issue subject as the email subject.</i>
+    
+    <hr style="border: 2; height: 1px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);"><p>
+    <p><strong style="font-size:20px;">&nbsp;&nbsp;&nbsp;Latest Change</strong></p>
+    <p>{html_changes_total}</p>
+    <hr style="border: 2; height: 1px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);"><p>
+    <p><strong style="font-size:20px;">&nbsp;&nbsp;&nbsp;Issue Attributes</strong></p>
+    <table style="font-size:14px; line-height:1.6;">
+        <tr><td><strong>Updated Time:</strong></td>
+        <td>{issue.updated_on}</td></tr>
+        <tr><td><strong>Status:</strong></td>
+        <td>{issue.status}</td></tr>
+        <tr><td><strong>Priority:</strong></td>
+        <td>{issue.priority}</td></tr>
+        <tr><td><strong>Assignee:</strong></td>
+        <td>{body_assignee}</td></tr>
+        <tr><td><strong>Spent Hours:</strong></td>
+        <td>{body_spent_hours.replace('\n', '<br>') if body_spent_hours != 'None' else 'None'}</td></tr>
+        <tr><td><strong>New Note:</strong></td>
+        <td>{new_note.replace('\n', '<br>')}</td></tr>
+        </table>
+</body>
+</html>

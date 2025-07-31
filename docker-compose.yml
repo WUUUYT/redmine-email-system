@@ -1,0 +1,15 @@
+name: redmineticket
+
+services:
+  main:
+    container_name: redmineticket
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: redmineticket:latest
+    restart: unless-stopped
+    volumes:
+      - ./data:/app/src/data
+      - ./logs:/var/log/redmineticket
+    env_file:
+      - .env
