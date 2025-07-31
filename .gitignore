@@ -10,3 +10,7 @@ logs/
 
 #config
 config.json
+
+#info
+src/config/redmine_info.py
+
