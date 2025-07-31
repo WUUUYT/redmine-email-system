@@ -13,7 +13,7 @@ from redminelib import Redmine
 
 class RedmineHandler():
     def __init__(self,
-                 project_id = 'p20240805',
+                 project_id = '',
                  redmine_url = REDMINE_CONFIG['url'],
                  redmine_apikey = REDMINE_CONFIG['apikey'],
                  send_url = "https://graph.microsoft.com/v1.0/me/sendMail",
@@ -217,25 +217,4 @@ class RedmineHandler():
         self.logger.info(f"{'='*5} Redmine handling cycle finished {'='*5}")
 
 if __name__ == '__main__':
-    emails_data = [{'subject': 'Demo on 06/19', 
-                   'issue_id': None, 
-                   'sender': 'Yitong Wu', 
-                   'email_addr': 'Yitong.Wu@FII-NA.com', 
-                   'time': datetime.datetime(2025, 6, 16, 16, 52, 13, tzinfo=datetime.timezone(datetime.timedelta(days=-1, seconds=68400), 
-                                                                                               'Central Daylight Time')), 
-                    'body': 'Hi,\r\nThis test is to check if the email notice works well. Please check the email formatting.\r\nBest,\r\nYW', 
-                    'attachments': ['C:\\Users\\yitong_wu\\Downloads\\RedmineTicket\\src\\attachments\\image003.png', 'C:\\Users\\yitong_wu\\Downloads\\RedmineTicket\\src\\attachments\\image002.png', 'C:\\Users\\yitong_wu\\Downloads\\RedmineTicket\\src\\attachments\\image007.png']
-                    },
-                    {'subject': 'Test 07/02 2',
-                     'issue_id': None,
-                     'sender': 'Yitong Wu',
-                     'email_addr': 'yitong.wu@fii-na.com',
-                     'time': None,
-                     'body': 'None',
-                     'attachments': []
-                     }]
-    redminehandler = RedmineHandler(emails_data = emails_data, 
-                                    access_token='')
-    
-    redminehandler.login()        
-    redminehandler.redmine_write()
+    pass 
