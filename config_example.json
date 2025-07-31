@@ -1,0 +1,32 @@
+{
+    "projects": {
+        "Unique ID#": {
+            "name": "",
+            "email": "1223@example.com",
+            "cache_file": "data/1223.bin",
+            "enabled": true,
+            "createdefault": {
+                "status_id": 1,
+                "tracker_id": 2,
+                "priority_id": 2,
+                "assigned_to_id": null,
+                "business_unit": [4] 
+            },
+            "emailignore": {
+                "startwith": ["Automatic reply"],
+                "contain": ["new"],
+                "endwith": []
+            }
+        }
+    },
+    "reminderconfig": {
+        "status_change": true,
+        "priority_change": false,
+        "assignee_change": false,
+        "tracker_change": false,
+        "notes_change": false
+    },
+    "client_ID": "",
+    "tenant_ID": "",
+    "check_interval": 1
+}
