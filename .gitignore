@@ -7,3 +7,6 @@ __pycache__/
 # Logs
 logs/
 *.log
+
+#config
+config.json
